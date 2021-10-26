@@ -1,0 +1,144 @@
+<script>
+  window.status='STI - Versão 1.0'
+</script>      
+
+   
+	
+<html>
+		
+   <head>
+        <title>PREÇOS</title>
+    </head>
+		
+	 
+
+
+<html>
+    
+	<head>
+        <title>PREÇOS</title>
+    </head>
+    
+	<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="" style="width:800px">
+			
+			<tr><td><b> AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP					</b></td> <br/></tr>
+			<tr><td><b> COORDENADORIA DE DEFESA DA CONCORRÊNCIA												</b></td> <br/></tr>
+			<tr><td><b> SISTEMA DE LEVANTAMENTO DE PREÇOS													</b></td> <br/></tr>	
+            <tr><td><b> </b></td> <br/></tr>
+             
+	<table>
+		<tr>
+			<td colspan="4"><b>Síntese dos Preços Praticados - MONTES CLAROS</b></td>
+			
+		</tr>
+		<tr><td><b>Resumo I  - GASOLINA COMUM R$/l  </b></td></tr>
+		<tr><td><b>Período:  De 27/06/2021 a 03/07/2021
+		
+		</b></td></tr>
+	</table>
+	
+	<br/> 
+	
+	<table border="1px" class="table_padrao scrollable_table">
+	
+		<tr bgcolor="#6094AE" colspan="9"> 
+			<th colspan="6"> RELAÇÃO DE POSTOS PESQUISADOS </th> 
+		</tr>
+		
+		<tr>
+			<th  valign=center align=left> RAZÃO SOCIAL </th>
+			<th  valign=center align=left> ENDEREÇO</th>
+			<th  valign=center align=left> BAIRRO </th>
+			
+			<th  valign=center align=center> BANDEIRA </th>
+			
+			<th  valign=center align=center> PREÇO VENDA </th>
+			
+			<th  valign=center align=center> DATA COLETA </th>
+		</tr>
+
+	
+             
+	
+		
+		<tr>
+			<td align=left>RG EMPRESA COMERCIAL LTDA </td>
+			<td align=left> AVENIDA DEPUTADO ESTEVES RODRIGUES, 181 </td>
+			<td valign=left>Vila João Gordo</td><td valign=center align=center>PETROBRAS DISTRIBUIDORA S.A.</td><td valign=center align=center>5,739</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>CEMA CENTRAL MINEIRA ATACADISTA LTDA </td>
+			<td align=left> AVENIDA DULCE SARMENTO, 1320 </td>
+			<td valign=left>Vila Nazareth</td><td valign=center align=center>PETROBRAS DISTRIBUIDORA S.A.</td><td valign=center align=center>5,790</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>ALA COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA </td>
+			<td align=left> AVENIDA DEPUTADO PLINIO RIBEIRO, 1619 </td>
+			<td valign=left>Vila Ipiranga</td><td valign=center align=center>RAIZEN</td><td valign=center align=center>5,795</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>COMERCIAL J P FILHO LTDA - ME </td>
+			<td align=left> AVENIDA DOUTOR MARIO TOURINHO, S/N LOTE  03</td>
+			<td valign=left>Camilo Prates</td><td valign=center align=center>RAIZEN</td><td valign=center align=center>5,850</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>REDE HG COMBUSTIVEIS LTDA. </td>
+			<td align=left> AVENIDA D COM ANEL RODOVIARIO LESTE, S/N </td>
+			<td valign=left>Jardim Primavera</td><td valign=center align=center>PETROBRAS DISTRIBUIDORA S.A.</td><td valign=center align=center>5,850</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>MARQUESA AUTO SERVIÇOS LTDA. </td>
+			<td align=left> AVENIDA GERALDO ATHAYDE, 745 </td>
+			<td valign=left>Alto São João</td><td valign=center align=center>ALESAT</td><td valign=center align=center>5,870</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>TREVO DERIVADOS DE PETROLEO LTDA </td>
+			<td align=left>  ANEL RODOVIARIO LESTE, 5005 </td>
+			<td valign=left>Sede</td><td valign=center align=center>BRANCA</td><td valign=center align=center>5,890</td><td valign=center align=center>27/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>J A SOBRAL & CIA LTDA </td>
+			<td align=left> RODOVIA BR-251, S/N ANEL RODOVIARIO LESTKM    15.5               </td>
+			<td valign=left>Chacara Recanto dos Aracas</td><td valign=center align=center>IPIRANGA</td><td valign=center align=center>5,890</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>REDE HG COMBUSTIVEIS LTDA. </td>
+			<td align=left> AVENIDA DOUTOR MARIO TOURINHO, S/N KM: 13;</td>
+			<td valign=left>Acacias</td><td valign=center align=center>RAIZEN</td><td valign=center align=center>5,895</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>POSTO FACIL LTDA </td>
+			<td align=left> AVENIDA DEPUTADO PLINIO RIBEIRO, 800 </td>
+			<td valign=left>Vila Ipiranga</td><td valign=center align=center>PETROBRAS DISTRIBUIDORA S.A.</td><td valign=center align=center>5,899</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>REDE CUNHA COMERCIO DE COMBUSTIVEIS LTDA </td>
+			<td align=left> AVENIDA OSWALDO CRUZ, 342 </td>
+			<td valign=left>Centro</td><td valign=center align=center>PETROBRAS DISTRIBUIDORA S.A.</td><td valign=center align=center>5,899</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>MARQUESA AUTO SERVIÇOS LTDA. </td>
+			<td align=left> AVENIDA DEPUTADO PLINIO RIBEIRO, 555 </td>
+			<td valign=left>Esplanada</td><td valign=center align=center>IPIRANGA</td><td valign=center align=center>5,899</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>AUTO POSTO DE COMBUSTIVEIS INDEPENDENCIA LTDA </td>
+			<td align=left> AVENIDA INDEPENDENCIA, 3033 </td>
+			<td valign=left>Interlagos</td><td valign=center align=center>BRANCA</td><td valign=center align=center>5,989</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>POSTO CANDANGO LTDA </td>
+			<td align=left> AVENIDA ARMENIO VELOSO, 30 </td>
+			<td valign=left>Centro</td><td valign=center align=center>BRANCA</td><td valign=center align=center>5,999</td><td valign=center align=center>28/06/2021</td></tr>
+
+	</table>
+	<br/>
+	
+	<table border="1px" class="table_padrao scrollable_table">
+    <tr bgcolor='#EFEFEF'> <th colspan=2>PRE&Ccedil;O VENDA</th><tr><td><b>M&Eacute;DIA</b></td><td align=center>5,875</td></tr><tr><td><b>DESVIO PADR&Atilde;O</b></td><td  align=center>0,070</td></tr><tr><td><b>VALOR M&Iacute;NIMO</b></td><td   align=center>5,739</td></tr><tr><td><b>VALOR M&Aacute;XIMO</b></td><td align=center>5,999</td></tr>
+    </table>
+   <br>
+    
+<TABLE><td><b>Data de Emissão : 05/07/2021</b></TD></TABLE>
+</html>
+		

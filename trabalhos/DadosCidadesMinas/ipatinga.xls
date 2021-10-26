@@ -1,0 +1,129 @@
+<script>
+  window.status='STI - Versão 1.0'
+</script>      
+
+   
+	
+<html>
+		
+   <head>
+        <title>PREÇOS</title>
+    </head>
+		
+	 
+
+
+<html>
+    
+	<head>
+        <title>PREÇOS</title>
+    </head>
+    
+	<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="" style="width:800px">
+			
+			<tr><td><b> AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP					</b></td> <br/></tr>
+			<tr><td><b> COORDENADORIA DE DEFESA DA CONCORRÊNCIA												</b></td> <br/></tr>
+			<tr><td><b> SISTEMA DE LEVANTAMENTO DE PREÇOS													</b></td> <br/></tr>	
+            <tr><td><b> </b></td> <br/></tr>
+             
+	<table>
+		<tr>
+			<td colspan="4"><b>Síntese dos Preços Praticados - IPATINGA</b></td>
+			
+		</tr>
+		<tr><td><b>Resumo I  - GASOLINA COMUM R$/l  </b></td></tr>
+		<tr><td><b>Período:  De 27/06/2021 a 03/07/2021
+		
+		</b></td></tr>
+	</table>
+	
+	<br/> 
+	
+	<table border="1px" class="table_padrao scrollable_table">
+	
+		<tr bgcolor="#6094AE" colspan="9"> 
+			<th colspan="6"> RELAÇÃO DE POSTOS PESQUISADOS </th> 
+		</tr>
+		
+		<tr>
+			<th  valign=center align=left> RAZÃO SOCIAL </th>
+			<th  valign=center align=left> ENDEREÇO</th>
+			<th  valign=center align=left> BAIRRO </th>
+			
+			<th  valign=center align=center> BANDEIRA </th>
+			
+			<th  valign=center align=center> PREÇO VENDA </th>
+			
+			<th  valign=center align=center> DATA COLETA </th>
+		</tr>
+
+	
+             
+	
+		
+		<tr>
+			<td align=left>PETROL REDE DE POSTOS DE COMBUSTIVEL LTDA </td>
+			<td align=left> AVENIDA JOSE RAIMUNDO, 3880 </td>
+			<td valign=left>Granjas Vagalume</td><td valign=center align=center>BRANCA</td><td valign=center align=center>5,949</td><td valign=center align=center>29/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>COMERCIAL DE COMBUSTIVEIS MAURICIO GUERRA LTDA </td>
+			<td align=left> AVENIDA SIMON BOLIVAR, 575 </td>
+			<td valign=left>Cidade Nobre</td><td valign=center align=center>ALESAT</td><td valign=center align=center>5,990</td><td valign=center align=center>29/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>POSTO CARVALHO 6 LTDA </td>
+			<td align=left> AVENIDA MINAS GERAIS, 152 </td>
+			<td valign=left>Canaã</td><td valign=center align=center>PETROBRAS DISTRIBUIDORA S.A.</td><td valign=center align=center>5,999</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>CENCOSUD BRASIL COMERCIAL S.A. </td>
+			<td align=left> AVENIDA SELIM JOSE DE SALES, 2090 ANEXO: 01;</td>
+			<td valign=left>Bethania</td><td valign=center align=center>RAIZEN</td><td valign=center align=center>5,999</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>POSTO BURITIRAMA LTDA </td>
+			<td align=left> RUA QUEBEC, 324 </td>
+			<td valign=left>Bethania</td><td valign=center align=center>BRANCA</td><td valign=center align=center>6,090</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>POSTO BRUMA LTDA </td>
+			<td align=left> AVENIDA SIDONIA, 288 </td>
+			<td valign=left>Canaa</td><td valign=center align=center>PETROBRAS DISTRIBUIDORA S.A.</td><td valign=center align=center>6,094</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>POSTO PINHEIRO & CARVALHO LTDA </td>
+			<td align=left> AVENIDA SELIM JOSE DE SALES, 505 489/477</td>
+			<td valign=left>Canaa</td><td valign=center align=center>PETROBRAS DISTRIBUIDORA S.A.</td><td valign=center align=center>6,094</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>AP MAGALHAES & CIA LTDA </td>
+			<td align=left> AVENIDA CARLOS CHAGAS, 601 </td>
+			<td valign=left>Cidade Nobre</td><td valign=center align=center>RAIZEN</td><td valign=center align=center>6,096</td><td valign=center align=center>28/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>AUTO POSTO REDE SOUZA LTDA </td>
+			<td align=left> RUA FELIPE DOS SANTOS, 685 </td>
+			<td valign=left>Cidade Nobre</td><td valign=center align=center>PETROBRAS DISTRIBUIDORA S.A.</td><td valign=center align=center>6,097</td><td valign=center align=center>29/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>AUTO POSTO REDE SOUZA LTDA </td>
+			<td align=left> AVENIDA LONDRINA, 765 </td>
+			<td valign=left>Veneza</td><td valign=center align=center>PETROBRAS DISTRIBUIDORA S.A.</td><td valign=center align=center>6,097</td><td valign=center align=center>29/06/2021</td></tr>
+		
+		<tr>
+			<td align=left>POSTO DE COMBUSTIVEL FREITAS COSTA EIRELI </td>
+			<td align=left> AVENIDA JOSE ANATOLIO BARBOSA, 1004 </td>
+			<td valign=left>Limoeiro</td><td valign=center align=center>BRANCA</td><td valign=center align=center>6,100</td><td valign=center align=center>29/06/2021</td></tr>
+
+	</table>
+	<br/>
+	
+	<table border="1px" class="table_padrao scrollable_table">
+    <tr bgcolor='#EFEFEF'> <th colspan=2>PRE&Ccedil;O VENDA</th><tr><td><b>M&Eacute;DIA</b></td><td align=center>6,055</td></tr><tr><td><b>DESVIO PADR&Atilde;O</b></td><td  align=center>0,058</td></tr><tr><td><b>VALOR M&Iacute;NIMO</b></td><td   align=center>5,949</td></tr><tr><td><b>VALOR M&Aacute;XIMO</b></td><td align=center>6,100</td></tr>
+    </table>
+   <br>
+    
+<TABLE><td><b>Data de Emissão : 05/07/2021</b></TD></TABLE>
+</html>
+		
